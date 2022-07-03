@@ -1,0 +1,31 @@
+{
+  "name": "Alice-sandbox",
+  "title": "Alice ha desaparecido para Sandbox",
+  "description": "",
+  "authors": [
+    {
+      "name": "Luvero",
+      "discord": "Luvero#5745"
+    }
+  ],
+  "url": "https://github.com/Luvero-1/Alice-sandbox",
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/Luvero-1/Alice-sandbox/main/world.json",
+  "download": "https://codeload.github.com/Luvero-1/Alice-sandbox/zip/main",
+  "protected": false,
+  "coreVersion": "9.269",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.13.4"
+}
